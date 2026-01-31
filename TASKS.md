@@ -1,2 +1,2 @@
 Task List:
-Complete GitHub Lab - Collaborator Update
+Complete GitHub Lab - Owner Update
